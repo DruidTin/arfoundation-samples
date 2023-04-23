@@ -25,7 +25,7 @@ The `main` branch of this repository uses AR Foundation 5.1 and is compatible wi
 
 ### Build and run on device
 
-You can build the AR Foundation Samples project directly to device, which can be a helpful introduction to using AR Foundation features for the first time.
+您可以將 AR Foundation Samples 項目直接構建到設備，這對於首次使用 AR Foundation 功能很有幫助。
 
 To build to device, follow the steps below:
 
